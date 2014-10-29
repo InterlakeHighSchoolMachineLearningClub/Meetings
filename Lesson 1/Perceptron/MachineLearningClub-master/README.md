@@ -1,4 +1,3 @@
-MachineLearningClub
+Perceptron
 ===================
-
-Code from Machine Learning Club at Interlake.
+Keeping it simple
